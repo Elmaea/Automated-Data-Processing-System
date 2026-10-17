@@ -21,7 +21,7 @@ pip install pandas matplotlib tkcalendar python-docx mplcursors
 
 The intended workflow is:
 
-1.Launch the desktop application.
+1.Launch the desktop application.\n
 2.Select the directory containing the supported archived data.
 3.Run the decryption operation.
 4.Select the required data file, parameters, or identifiers.
